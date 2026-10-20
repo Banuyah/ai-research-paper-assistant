@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Local app data / uploaded files
+backend/data/
+uploads/
+*.faiss
+*.pkl
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
